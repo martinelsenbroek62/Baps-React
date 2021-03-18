@@ -1,0 +1,17 @@
+@import "~antd/dist/antd.css";
+
+.App {
+  text-align: center;
+}
+
+.demand-timeline {
+  margin-top: 25px;
+  margin-left: 20px;
+}
+.demand-card {
+  margin-left: 10px;
+}
+.demand-timeline-radio {
+  float: right;
+  margin-left: 15px;
+}
